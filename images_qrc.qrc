@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/branding_watermark_white_36dp.svg</file>
+    <file>images/close_white_36dp.svg</file>
+    <file>images/formula-1-logo.png</file>
+    <file>images/minimize_white_36dp.svg</file>
+    <file>images/web_asset_white_36dp.svg</file>
+  </qresource>
+</RCC>
